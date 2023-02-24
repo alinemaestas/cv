@@ -83,7 +83,7 @@ build_skill_bars(skills)
 Open Source Contributions {#open-source}
 --------------------------------------------------------------------------------
 
-All projects available at `github.com/nstrayer/<name>`
+All projects available at `github.com/alinemaestas`
 
 
 - `shinysense`: R package to use sensor data in Shiny apps
@@ -91,18 +91,12 @@ All projects available at `github.com/nstrayer/<name>`
 - `slid3r`: D3 add-on for fully svg slider inputs
 
 
-More info {#more-info}
---------------------------------------------------------------------------------
-
-See full CV at nickstrayer.me/cv for more complete list of positions and publications.
-
-
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 Made w/ [**pagedown**](https://github.com/rstudio/pagedown). 
 
-Source code: [github.com/nstrayer/cv](https://github.com/alinemaestas/cv).
+Source code: [github.com/alinemaestas/cv](https://github.com/alinemaestas/cv).
 
 Last updated on `r Sys.Date()`.
 
