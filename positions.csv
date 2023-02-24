@@ -1,5 +1,5 @@
-section,in_resume,title,institution,loc,start,end,description_1
-education,TRUE, Bachelor of Arts in Family and Consumer Sciences, Cal State Long Beach, "Long Beach, California", 1997, 2001, Child Development and Family Studies
+section,in_resume,title,loc,institution,start,end,description_1,description_2,description_3
+education,TRUE, Bachelor of Arts in Family and Consumer Sciences, Cal State Long Beach, "Long Beach, California", 1997, 2001, Child Development and Family Studies, NA, NA
 education,TRUE,"B.S., Mathematics, Statistics (minor C.S.)",University of Vermont,"Burlington, VT",2011,2015,Thesis: An agent based model of Diel Vertical Migration patterns of Mysis diluviana
 certifications,TRUE,Statistical Computing in R,Vanderbilt Biostatistics Department,"Nashville, TN",2017,2017,TA and lectured,Covered introduction to R language for statistics applications,Graduate level class
 professional_experience,TRUE,Statistical Computing in R,Vanderbilt Biostatistics Department,"Nashville, TN",2017,2017,TA and lectured,Covered introduction to R language for statistics applications,Graduate level class
