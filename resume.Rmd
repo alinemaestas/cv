@@ -134,4 +134,6 @@ Professional Experience {data-icon=suitcase}
 position_data %>% print_section('professional_experience')
 ```
 
+ {data-icon=newspaper}
+--------------------------------------------------------------------------------
 
